@@ -10,7 +10,7 @@ ReportControl is a software to manage bugs reports of lab machines
 
 # Configure login database
 
-Go to `src/java/conexion/` and edit the parameters 
+Go to `src/java/conexion/Conexion.java` and edit the parameters 
 
 	public static Connection getConexion() throws Exception{
         Class.forName("com.mysql.jdbc.Driver");
