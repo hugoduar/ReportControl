@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%
 if(session.getAttribute("rol")!=null){
@@ -131,3 +132,22 @@ if(session.getAttribute("rol")!=null){
   </body>
 </html>
 
+=======
+<%-- 
+    Document   : index
+    Created on : 30-may-2013, 2:37:24
+    Author     : Hugo
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <h1>Hello World!</h1>
+    </body>
+</html>
+>>>>>>> 6efab16c8837e4e3634b7b257dd6b17b2d60c6d1
